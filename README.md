@@ -1,6 +1,6 @@
-## Your Name
+## Benjamin M Tomkins,  London (W1)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Biomedical Engineer/AI Consultant with 18 years conceptual innovation and prototyping experience —currently enrolled in the London Makers Academy to expand my range of solutions to include professional software development.
 
 ## Skills
 
