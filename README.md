@@ -26,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (start_date to end_date)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
+- Fast, independent learner [link](http://example.com)
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
