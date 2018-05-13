@@ -4,6 +4,8 @@ Personable candidate with strong quantitative, analytical and problem-solving sk
 
 ## Example consultancy-based projects:
 
+++ Property development and interior design [detail skills and examples]
+
 ++ Currently in development, self-aligning wound healing plasters to reduce caesarean section scars.
 
 ++ Developed a new concept/prototype for a tiered compiler, by re-representing the program using matrix algebra, we were able to further simplify (using the Maple interface) and further optimised by the language compiler. [meh]
