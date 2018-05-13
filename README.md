@@ -14,7 +14,9 @@ Personable candidate with strong quantitative, analytical and problem-solving sk
 
 ++ Ai system for SLR lenses. Client wanted a solution to improve the quality of glass lenses to be closer to that of gemstone lenses (lower noise and greater colour range), but without the need to retool an entire factory. The solution I designed and prototyped involved a form of “synthetic imagination chip”, trained on millions of images, that was able to predict and redraw a glass lens image to be within 76% that of a gemstone lens image. [you’re welcome, world]
 
-++ Number systems for efficiently identifying large primes *NDA*
+++ Number systems for efficiently identifying large primes *NDA* but can elaborate more
+
+++ Cool plant/aeroponics stuff [elaborate]
 
 ++ Machine learning and Artificial Intelligence Patents:
 Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURAL NETWORK TECHNOLOGIES TO ENHANCE SPECTRAL DATA
