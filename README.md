@@ -21,18 +21,18 @@ Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURA
 ## Certifications and skills:
 BSc Design Futures, Westminster University [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/degree.jpg)
 Plastering [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/plastering.jpg)
-Solidworks Certified [link] https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/solidworks.png)
-Steve Souders’ High Performance Websites course (Stanford) [link] https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/stanford.jpg)
-MIT’s Big Data [link] https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/big_data.png)
-Brown University Applied Linear Algebra in Python -Distinction [link] https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/linear_algebra.png)
-Industrial Sewing, Central St Martens [link] https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/sewing.jpg)
+Solidworks Certified [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/solidworks.png)
+Steve Souders’ High Performance Websites course (Stanford) [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/stanford.jpg)
+MIT’s Big Data [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/big_data.png)
+Brown University Applied Linear Algebra in Python -Distinction [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/linear_algebra.png)
+Industrial Sewing, Central St Martens [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/sewing.jpg)
 Very experienced in prototype manufacturing (virtual and physical)
 3D printing (stereolithography)
 Rammed Earth Structures
 
 ## Hobbies:
-Can make women’s shoes [links] https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_1.jpg)
-[link]https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_2.jpg)
-[link]https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_3.jpg)
+Can make women’s shoes [links](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_1.jpg)
+[link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_2.jpg)
+[link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_3.jpg)
 Reading, have an extensive library covering : list topics
 Ice Skating
