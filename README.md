@@ -27,6 +27,8 @@ Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURA
 
 ## Certifications and skills:
 
+Matlab, Python (sooo rusty), Adobe products for 15 years, Solidworks, Maple (rusty)
+
 BSc Design Futures, Westminster University [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/degree.jpg)
 
 Plastering [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/plastering.jpg)
