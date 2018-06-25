@@ -37,7 +37,7 @@ BSc Design Futures, Westminster University [link](https://raw.githubusercontent.
 
 Interior Design [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/building_0.jpg)
 
-Plastering [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/plastering.jpg)
+Plastering [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/plastering_01.jpg)
 
 Solidworks Certified [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/solidworks.png)
 
