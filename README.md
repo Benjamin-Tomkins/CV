@@ -35,6 +35,8 @@ Matlab, Python (sooo rusty), Adobe products for 15 years, Solidworks, Maple (rus
 
 BSc Design Futures, Westminster University [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/degree.jpg)
 
+Interior Design [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/building_0.jpg)
+
 Plastering [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/plastering.jpg)
 
 Solidworks Certified [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/solidworks.png)
