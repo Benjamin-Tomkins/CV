@@ -1,6 +1,6 @@
 <p align="right" ><img src="./images/logo-makers.svg" width="50"/><br>Makers</p>
 
-## Ben Tomkins  <span align="right">| W1 |</span>
+## <span align="left">Ben Tomkins</span>  <span align="right">| W1 |</span>
 
 <p align="center" ><img src="./images/makers_journey.svg" width="700"/></p>
 
