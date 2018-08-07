@@ -1,3 +1,6 @@
+<img align="center" src="./imgages/makers_journey.svg" width="500">
+
+
 -- Draft Notes --
 
 ## Benjamin M Tomkins,  London (W1)
