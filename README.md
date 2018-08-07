@@ -1,6 +1,6 @@
 <h1><img align="left" src="./images/CV-3.svg" height="50"/><img align="right" src="./images/logo-makers.svg" width="50"/></h1>
 <h4 align="right">Benjamin Tomkins&nbsp;&nbsp;&nbsp;| W1 |</h4>
-
+<br><br>
 <p align="center" ><img src="./images/makers_journey.svg" width="700"/></p>
 
 
