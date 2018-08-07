@@ -1,4 +1,4 @@
-<img align="center" src="./imgages/makers_journey.svg" width="500">
+<img align="center" src="./images/makers_journey.svg" width="500">
 
 
 -- Draft Notes --
