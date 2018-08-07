@@ -1,4 +1,5 @@
-<h5><img align="right" src="./images/logo-makers.svg" width="50"/><br>Makers</h5>
+<h1>cv<img align="right" src="./images/logo-makers.svg" width="50"/></h1>
+<h5 align="right">Makers<h5>
 <h4 align="right">Benjamin Tomkins&nbsp;&nbsp;&nbsp;| W1 |</h4>
 <h1>cv</h1>
 
