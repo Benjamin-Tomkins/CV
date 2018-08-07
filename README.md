@@ -1,9 +1,11 @@
+## Benjamin M Tomkins,  London (W1)
+
 <p align="center" ><img src="./images/makers_journey.svg" width="700"/></p>
 
 
 -- Draft Notes --
 
-## Benjamin M Tomkins,  London (W1)
+
 
 Personable candidate with strong quantitative, analytical and problem-solving skills, derived from a Biomedical Engineering/AI Consulting background - with 18 years conceptual innovation and prototyping experience. Currently enrolled in the London Makers Academy, to expand and develop my range of solutions to include professional software development.
 
