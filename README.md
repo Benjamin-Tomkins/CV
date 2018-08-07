@@ -2,7 +2,8 @@
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:bentomkins@gmail.com">Benjamin Tomkins</a>&nbsp;&nbsp;&nbsp;| W1 |</h4>
 <br><br>
 <p align="center" ><img src="./images/makers_journey.svg" width="700"/></p>
-
+<br>
+<h4 align="center">I make cool things that make you look good<h4>
 
 -- Draft Notes --
 
