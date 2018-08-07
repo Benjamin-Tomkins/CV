@@ -1,4 +1,4 @@
-<p align="right" ><img src="./images/logo-makers.svg" width="50"/><br>Makers<br>May'18</p>
+<p align="right" ><img src="./images/logo-makers.svg" width="50"/><br>Makers</p>
 
 ## Benjamin M Tomkins,  London (W1)
 
