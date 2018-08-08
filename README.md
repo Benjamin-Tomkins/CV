@@ -4,14 +4,15 @@
 <p align="center" ><img src="./images/makers_journey.svg" width="700"/></p>
 <h4 align="center">" I build cool stuff "<h4>
 
+[About](#About) | [Projects](#Projects) | [Synopsis](#Synopsis) | [Edification](#Edification) | [FAQ](#FAQ) | [Random](#Random)
 
--- Draft Notes --
+#### About
 
 
 
 Personable candidate with strong quantitative, analytical and problem-solving skills, derived from a Biomedical Engineering/AI Consulting background - with 18 years conceptual innovation and prototyping experience. Currently enrolled in the London Makers Academy, to expand and develop my range of solutions to include professional software development.
 
-## Example consultancy-based projects:
+#### Projects
 
 ++ Property development and interior design [detail skills and examples]
 
