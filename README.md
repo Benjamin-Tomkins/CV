@@ -21,7 +21,7 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 
 #### <a name="Synopsis"></a>Synopsis :
 
-+ `In-dev: self-aligning wound healing plasters` __ efficient reducing caesarean section scars without surgery.
++ `In-dev: self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery.
 + `Developed a new concept/prototype for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 + `Designed and developed an integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
 + `Prototype Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
