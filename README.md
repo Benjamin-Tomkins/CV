@@ -30,7 +30,7 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
 #### <a name="Learny-bits"></a>Learny-bits :
-+ Recently been learning JS/ES6, Ruby, TDD, Java, Node.JS, React, and SpringBoot for the last 3mo. in Makers *WiP*.
++ Recently been learning JS/ES6, Ruby, TDD, Java, Node, React, and SpringBoot for the last 3 months in Makers *WiP*.
 + Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
 + Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
 + Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>.
