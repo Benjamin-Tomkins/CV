@@ -47,11 +47,13 @@ Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURA
 + And, am also experienced in prototyping, manufacturing (virtual and physical), and 3D printing (stereolithography)
 
 #### <a name="FAQ"></a>FAQ :
-+ Are you on social media?
-<br>[x] no, it's creepy
+> Are you on social media?
+>> no, it's creepy
+
+> What's the deal with the sheep?
+>> I grew up around farms and love animals with short legs, including: sheep, munchkin cats, shetland ponies, and bernese mountain dogs
 
 #### <a name="Random"></a>Random :
 + Central St Martens thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
 + Something called Rammed Earth Structures (its a thing).. and making women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷
 + I like ice skating, but not done it in a while
-+ And
