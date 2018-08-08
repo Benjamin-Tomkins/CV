@@ -21,13 +21,13 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 
 #### <a name="Synopsis"></a>Synopsis :
 
-+ `In-dev: self-aligning wound healing plasters` ... efficient reducing caesarean section scars without surgery.
-+ `Developed a new concept/prototype for a tiered compiler` ... representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
-+ `Designed and developed an integrated database numerical engine` ... enabling computation on medical data without violating patient confidentiality.
-+ `Prototype Ai Cancer detection system` ... analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `Prototype Ai system for SLR lenses` ... predictive algorithm to boosting the quality of glass lenses to be closer to that of gemstone lenses.
-+ `Representing numbers in cool new ways` ... buy me a drink and I'll draw you a picture.
-+ `Cool plant/aeroponics stuff` ... Buy me a drink and I'll still not tell you #NDA
++ `In-dev: self-aligning wound healing plasters` __ efficient reducing caesarean section scars without surgery.
++ `Developed a new concept/prototype for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
++ `Designed and developed an integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
++ `Prototype Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
++ `Prototype Ai system for SLR lenses` __ predictive algorithm to boosting the quality of glass lenses to be closer to that of gemstone lenses.
++ `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
++ `Cool plant/aeroponics stuff` __ Buy me a drink and I'll still not tell you #NDA
 
 #### <a name="Learny-bits"></a>Learny-bits :
 + Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
