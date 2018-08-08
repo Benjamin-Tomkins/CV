@@ -4,13 +4,13 @@
 <p align="center" ><a name="journey"><img src="./images/makers_journey.svg" width="700"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About) | [Projects](#Projects) | [Synopsis](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
+[About](#About) | [Code Stuff](#Code Stuff) | [Synopsis](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
 Half-baked full stack entry level developer, and recent Makers Academy graduate — with a history of making, inventing, designing, and prototyping cool stuff you can touch; using tools like <a href="https://uk.mathworks.com/products/matlab.html">`this`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`this`</a>. And writing things like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a> ( its trendy now 🤷). And sometimes you'll find me on a ladder doing <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/plastering_1.jpg">`this`</a>, and turning things like <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_1.jpg">`this`</a>.. into <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_2.jpg">`this`</a>
 
-#### <a name="Projects"></a>Code Projects :
+#### <a name="Code Stuff"></a>Code Stuff :
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
