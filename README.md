@@ -6,13 +6,13 @@
 
 [About](#About) | [Projects](#Projects) | [Synopsis](#Synopsis) | [Edification](#Edification) | [FAQ](#FAQ) | [Random](#Random)
 
-#### About
+#### <a name="About"></a>About :
 
 
 
 Personable candidate with strong quantitative, analytical and problem-solving skills, derived from a Biomedical Engineering/AI Consulting background - with 18 years conceptual innovation and prototyping experience. Currently enrolled in the London Makers Academy, to expand and develop my range of solutions to include professional software development.
 
-#### Projects
+#### <a name="Projects"></a>Projects :
 
 ++ Property development and interior design [detail skills and examples]
 
