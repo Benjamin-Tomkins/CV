@@ -48,7 +48,7 @@ Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURA
 
 #### <a name="FAQ"></a>FAQ :
 + Are you on social media?
-[x] no, it's creepy
+<br>[x] no, it's creepy
 
 #### <a name="Random"></a>Random :
 + Central St Martens thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
