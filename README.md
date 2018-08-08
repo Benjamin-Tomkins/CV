@@ -21,27 +21,28 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 
 #### <a name="Synopsis"></a>Synopsis :
 
-<h5>Examples of things I've made | worked on :<h5>
-`WIP: self-aligning wound healing plasters`
-> efficient reducing caesarean section scars without surgery.
+<h5>Examples of things I've made | worked on :</h5>
 
-`Developed a new concept/prototype for a tiered compiler`
-> representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
+`WIP: self-aligning wound healing plasters`<br>
+...efficient reducing caesarean section scars without surgery.
 
-`Designed and developed an integrated database numerical engine`
-> enabling computation on medical data without violating patient confidentiality.
+`Developed a new concept/prototype for a tiered compiler`<br>
+...representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 
-`Prototype Ai Cancer detection system`
-> analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
+`Designed and developed an integrated database numerical engine`<br>
+...enabling computation on medical data without violating patient confidentiality.
 
-`Prototype Ai system for SLR lenses`
-> predictive algorithm to boosting the quality of glass lenses to be closer to that of gemstone lenses.
+`Prototype Ai Cancer detection system`<br>
+...analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
 
-`Representing numbers in cool new ways`
-> buy me a drink and I'll draw you a picture.
+`Prototype Ai system for SLR lenses`<br>
+...predictive algorithm to boosting the quality of glass lenses to be closer to that of gemstone lenses.
 
-`Cool plant/aeroponics stuff`
-> Buy me a drink and I'll still not tell you #NDA
+`Representing numbers in cool new ways`<br>
+...buy me a drink and I'll draw you a picture.
+
+`Cool plant/aeroponics stuff`<br>
+...Buy me a drink and I'll still not tell you #NDA
 
 #### <a name="Learny-bits"></a>Learny-bits :
 + Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
