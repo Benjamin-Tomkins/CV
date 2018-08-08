@@ -25,7 +25,7 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 + `Developed a new concept/prototype for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 + `Designed and developed an integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
 + `Prototype Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
-+ `Prototype Ai system for SLR lenses` __ predictive algorithm to boosting the quality of glass lenses to be closer to that of gemstone lenses.
++ `Prototype Ai system for SLR lenses` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
 + `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
@@ -47,7 +47,7 @@ What's the deal with the sheep?
 > I grew up around farms and love animals with short legs, e.g: sheep, munchkin cats, shetland ponies, and bernese mountain dogs.
 
 #### <a name="Random"></a>Random :
-+ Central St Martens thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
++ Central St Martins thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
 + Something called Rammed Earth Structures (its a thing).
 + Making women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷
 + Ice skating, but not done it in a while.
