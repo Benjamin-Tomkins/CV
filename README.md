@@ -8,10 +8,7 @@
 <br><br>
 #### <a name="About"></a>About :
 
-
-Before Makers, I spent years making, inventing, designing, and prototyping things you can touch - and writing things like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a>.. and using tools like <a href="https://uk.mathworks.com/products/matlab.html">`this`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`this`</a>.
-
-I used prototype things you can touch, and to write things <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`like this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a>; As a recent Makers graduate (click the top logo), I've started transitioning my skills into the virtual world of software and OOP like stuff.
+<p>Half-baked, full stack entry-level developer, and recent Makers Academy graduate - with a history of making, inventing, designing, and prototyping things you can touch; using tools like <a href="https://uk.mathworks.com/products/matlab.html">`this`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`this`</a>. And writing things like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a>.. which are apparently trendy skills to know.</p>
 
 #### <a name="Projects"></a>Projects :
 
