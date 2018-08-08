@@ -8,34 +8,40 @@
 <br><br>
 #### <a name="About"></a>About :
 
-Half-baked full stack entry level developer, and recent Makers Academy graduate — with a history of making, inventing, designing, and prototyping cool stuff you can touch; using tools like <a href="https://uk.mathworks.com/products/matlab.html">`this`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`this`</a>. And writing things like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a> (its trendy now 🤷). And sometimes you'll find me on a ladder doing <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/plastering_1.jpg">`this`</a>, and turning things like <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_1.jpg">`this`</a>.. into <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_2.jpg">`this`</a>
+Half-baked full stack entry level developer, and recent Makers Academy graduate — with a history of making, inventing, designing, and prototyping cool stuff you can touch; using tools like <a href="https://uk.mathworks.com/products/matlab.html">`this`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`this`</a>. And writing things like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a> ( its trendy now 🤷). And sometimes you'll find me on a ladder doing <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/plastering_1.jpg">`this`</a>, and turning things like <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_1.jpg">`this`</a>.. into <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_2.jpg">`this`</a>
 
+#### <a name="Projects"></a>Code Projects :
 
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Tech Test](https://github.com/Benjamin-Tomkins/Bank-tech-test) | I made a tech test | Ruby, RSpec, Trello, Visual Paradigm |
+|[Charity Wishlist](https://github.com/Benjamin-Tomkins/charity-wishlist)| Final group project at Makers. A multi-server Charity wishlist system leveraging the JustGiving API| Javascript ES6 / Node.js, React.js, Express, PostgreSQL, Bootstrap |
+| [Node REST API](https://github.com/Benjamin-Tomkins/express-rest-controller) | WiP : example full CRUD API | Node.js, Express, Joi |
+| [SpringBoot API](https://github.com/Benjamin-Tomkins/springboot_challenge) | WiP : example full CRUD API | Spring Boot, Java, Maven |
 
-#### <a name="Projects"></a>Projects :
+#### <a name="Synopsis"></a>Synopsis :
 
-++ Property development and interior design [detail skills and examples]
+Examples of things I've made | worked on :
+`WIP: self-aligning wound healing plasters`
+> efficient reducing caesarean section scars without surgery.
 
-++ Currently in development, self-aligning wound healing plasters to reduce caesarean section scars.
+`Developed a new concept/prototype for a tiered compiler`
+> representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
 
-++ Developed a new concept/prototype for a tiered compiler, by re-representing the program using matrix algebra, we were able to further simplify (using the Maple interface) and further optimised by the language compiler. [meh]
+`Designed and developed an integrated database numerical engine`
+> enabling computation on medical data without violating patient confidentiality.
 
-++ Designed and developed an integrated database numerical engine to enable computation on medical data without violating patient confidentiality. [elaborate]
+`Prototype Ai Cancer detection system`
+> analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
 
-++ Lead architect and designer for a prototype Ai Cancer detection system for analysing voxel-based data for computed tomography scanners (CT). Worked by highlighting potential cancers, rather like a probabilistically shaded 3D spell checker to represent likelihood, and integrated recommender system to determine which radiologist subspecialties (ordered by likelihood) should be consulted - and in which order - to reduce unnecessary patient tests during diagnosis. [wording sucks]
+`Prototype Ai system for SLR lenses`
+> predictive algorithm to boosting the quality of glass lenses to be closer to that of gemstone lenses.
 
-++ Ai system for SLR lenses. Client wanted a solution to improve the quality of glass lenses to be closer to that of gemstone lenses (lower noise and greater colour range), but without the need to retool an entire factory. The solution I designed and prototyped involved a form of “synthetic imagination chip”, trained on millions of images, that was able to predict and redraw a glass lens image to be within 76% that of a gemstone lens image. [you’re welcome, world]
+`Representing numbers in cool new ways`
+> buy me a drink and I'll draw you a picture.
 
-++ Number systems for efficiently identifying large primes *NDA* but can elaborate more
-
-++ Cool plant/aeroponics stuff [elaborate]
-
-++ Machine learning and Artificial Intelligence Patents:
-Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURAL NETWORK TECHNOLOGIES TO ENHANCE SPECTRAL DATA
-[link](https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf)
-
-++ SYSTEM AND METHOD FOR BEHAVIOURAL MODELLING
-[link](https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf)
+`Cool plant/aeroponics stuff`
+> Buy me a drink and I'll still not tell you #NDA
 
 #### <a name="Learny-bits"></a>Learny-bits :
 + Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
