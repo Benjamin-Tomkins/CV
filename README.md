@@ -9,7 +9,7 @@
 #### <a name="About"></a>About :
 
 
-I used to write things <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`like this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`like this, also`</a>
+I used to write things <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`like this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`like this`</a>
 Personable candidate with strong quantitative, analytical and problem-solving skills, derived from a Biomedical Engineering/AI Consulting background - with 18 years conceptual innovation and prototyping experience. Currently enrolled in the London Makers Academy, to expand and develop my range of solutions to include professional software development.
 
 #### <a name="Projects"></a>Projects :
