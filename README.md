@@ -4,7 +4,7 @@
 <p align="center" ><img src="./images/makers_journey.svg" width="700"/></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About) | [Projects](#Projects) | [Synopsis](#Synopsis) | [Edification](#Edification) | [FAQ](#FAQ) | [Random](#Random)
+[About](#About) | [Projects](#Projects) | [Synopsis](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
@@ -37,7 +37,7 @@ Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURA
 ++ SYSTEM AND METHOD FOR BEHAVIOURAL MODELLING
 [link](https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf)
 
-## Certifications and skills:
+#### <a name="Learny-bits"></a>Learny-bits :
 
 Matlab, Python (sooo rusty), Adobe products for 15 years, Solidworks, Maple (rusty)
 
