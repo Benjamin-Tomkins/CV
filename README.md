@@ -50,4 +50,4 @@ What's the deal with the sheep?
 + Something called Rammed Earth Structures (its a thing).
 + Making women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷
 + Ice skating, but not done it in a while.
-+ Oh, and I can draw stuff.
++ I can draw stuff.
