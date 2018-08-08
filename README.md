@@ -5,7 +5,7 @@
 <h4 align="center">" I build cool stuff "<h4>
 
 [About](#About) | [Projects](#Projects) | [Synopsis](#Synopsis) | [Edification](#Edification) | [FAQ](#FAQ) | [Random](#Random)
-
+<br>
 #### <a name="About"></a>About :
 
 
