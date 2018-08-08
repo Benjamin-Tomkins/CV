@@ -4,7 +4,7 @@
 <p align="center" ><a name="journey"><img src="./images/makers_journey.svg" width="700"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About) | [Code-stuff](#Projects) | [Projects](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
+[About](#About) | [Code-stuff](#Projects) | [Work-stuff](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
@@ -19,7 +19,7 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 | [Node REST API](https://github.com/Benjamin-Tomkins/express-rest-controller) | WiP : example full CRUD API | Node.js, Express, Joi |
 | [SpringBoot API](https://github.com/Benjamin-Tomkins/springboot_challenge) | WiP : example full CRUD API | Spring Boot, Java, Maven |
 
-#### <a name="Synopsis"></a>Projects :
+#### <a name="Synopsis"></a>Work-stuff :
 
 + `In-dev: self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery.
 + `Developed a new concept/prototype for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
