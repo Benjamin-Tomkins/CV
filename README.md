@@ -9,6 +9,8 @@
 #### <a name="About"></a>About :
 
 
+Before Makers, I spent years making | inventing | designing | prototyping things you can touch, and to writing things like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a>.. and using tools like <a href="https://uk.mathworks.com/products/matlab.html">`this`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`this`</a>.
+
 I used prototype things you can touch, and to write things <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`like this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a>; As a recent Makers graduate (click the top logo), I've started transitioning my skills into the virtual world of software and OOP like stuff.
 
 #### <a name="Projects"></a>Projects :
