@@ -39,38 +39,22 @@ Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURA
 
 #### <a name="Learny-bits"></a>Learny-bits :
 
-Matlab, Python (sooo rusty), Adobe products for 15 years, Solidworks, Maple (rusty)
+Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
 
-BSc Design Futures, Westminster University [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/degree.jpg)
+Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a>, Westminster University.
 
-Interior Design [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/building_0.jpg)
+Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>
 
-Plastering [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/plastering_1.jpg)
+Took the Stanford Professional <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/stanford.jpg">High Performance Websites</a>.. taught by <a href="https://stevesouders.com/about.php">Steve Souders</a>.
 
-Solidworks Certified [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/solidworks.png)
+Aced <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/big_data.png">MIT’s Big Data</a> course
 
-Steve Souders’ High Performance Websites course (Stanford) [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/stanford.jpg)
+Did one of those online courses from Brown University, in <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/linear_algebra.png">Applied Linear Algebra in Python</a>
 
-MIT’s Big Data [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/big_data.png)
+And, Central St Martens thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
 
-Brown University Applied Linear Algebra in Python -Distinction [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/linear_algebra.png)
+Am also experienced in prototyping, manufacturing (virtual and physical), and 3D printing (stereolithography)
 
-Industrial Sewing, Central St Martens [link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/sewing.jpg)
+And something called Rammed Earth Structures (its a thing).. and making women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷
 
-Very experienced in prototype manufacturing (virtual and physical)
 
-3D printing (stereolithography)
-
-Rammed Earth Structures
-
-## Hobbies:
-
-Can make women’s shoes [links](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_1.jpg)
-[link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_2.jpg)
-[link](https://raw.githubusercontent.com/Benjamin-Tomkins/CV/master/images/shoes_3.jpg)
-
-Reading, have an extensive library covering : list topics
-
-Molecular Gastronomy and Sous Vide cooking
-
-Ice Skating
