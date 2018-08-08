@@ -21,7 +21,7 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 
 #### <a name="Synopsis"></a>Synopsis :
 
-Examples of things I've made | worked on :
+<h5>Examples of things I've made | worked on :<h5>
 `WIP: self-aligning wound healing plasters`
 > efficient reducing caesarean section scars without surgery.
 
