@@ -38,15 +38,20 @@ Lead inventor/Architect SYSTEM AND METHOD OF USING GENETIC PROGRAMMING AND NEURA
 [link](https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf)
 
 #### <a name="Learny-bits"></a>Learny-bits :
-
 + Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
 + Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a>, Westminster University.
 + Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>
 + Took the Stanford Professional <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/stanford.jpg">High Performance Websites</a>.. taught by <a href="https://stevesouders.com/about.php">Steve Souders</a>.
 + Aced <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/big_data.png">MIT’s Big Data</a> course
 + Did one of those online courses from Brown University, in <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/linear_algebra.png">Applied Linear Algebra in Python</a>
-+ And, Central St Martens thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
-+ Am also experienced in prototyping, manufacturing (virtual and physical), and 3D printing (stereolithography)
-+ Oh, and something called Rammed Earth Structures (its a thing).. and making women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷
++ And, am also experienced in prototyping, manufacturing (virtual and physical), and 3D printing (stereolithography)
 
+#### <a name="FAQ"></a>FAQ :
++ Are you on social media?
+[x] no, it's creepy
 
+#### <a name="Random"></a>Random :
++ Central St Martens thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
++ Something called Rammed Earth Structures (its a thing).. and making women's shoes <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_1.jpg">[1]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_2.jpg">[2]</a>, <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/shoes_3.jpg">[3]</a> 🤷
++ I like ice skating, but not done it in a while
++ And
