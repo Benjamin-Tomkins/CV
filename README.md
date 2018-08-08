@@ -27,7 +27,7 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 + `Prototype Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
 + `Prototype Ai system for SLR lenses` __ predictive algorithm to boosting the quality of glass lenses to be closer to that of gemstone lenses.
 + `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
-+ `Cool plant/aeroponics stuff` __ Buy me a drink and I'll still not tell you #NDA
++ `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
 #### <a name="Learny-bits"></a>Learny-bits :
 + Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
