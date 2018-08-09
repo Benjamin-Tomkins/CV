@@ -44,7 +44,7 @@ Are you on social media?
 > no, it's creepy
 
 What's the deal with the sheep?
-> I grew up around farms and love animals with short legs, e.g: sheep, munchkin cats, shetland ponies, and bernese mountain dogs.
+> I grew up around farms and love animals with short legs, e.g: sheep, munchkin cats, shetland ponies, and bernese mountain dogs
 
 #### <a name="Random"></a>Random :
 + Central St Martins thinks i'm not bad at <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/sewing.jpg">Industrial Sewing</a>
