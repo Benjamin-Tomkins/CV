@@ -15,7 +15,7 @@ Half-baked full stack entry level developer, and recent Makers Academy graduate 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Tech Test](https://github.com/Benjamin-Tomkins/Bank-tech-test) | I made a bank tech test | Ruby, RSpec, Trello, Visual Paradigm |
-|[Charity Wishlist](https://github.com/Benjamin-Tomkins/charity-wishlist)| Final group project at Makers. A multi-server Charity wishlist system leveraging the JustGiving API| JS ES6, AdobeXD, Node.js, React.js, Express, PostgreSQL, Bootstrap, Jest, Enzyme, Mocha |
+|[Charity Wishlist](https://github.com/Benjamin-Tomkins/charity-wishlist)| Final group project at Makers. A multi-server Charity wishlist system leveraging the JustGiving API| JS/ES6, AdobeXD, Node.js, React.js, Express, PostgreSQL, Bootstrap, Jest, Enzyme, Mocha |
 | [Node REST API](https://github.com/Benjamin-Tomkins/express-rest-controller) | WiP : example full CRUD API | Node.js, Express, Joi |
 | [SpringBoot API](https://github.com/Benjamin-Tomkins/springboot_challenge) | WiP : example full CRUD API | Spring Boot, Java, Maven |
 
