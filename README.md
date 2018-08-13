@@ -23,7 +23,7 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 
 + `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery *[in-dev].
 + `Proof of concept/prototype for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
-+ `Designed and developed an integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
++ `Integrated database numerical engine` __ enabling computation on medical data without violating patient confidentiality.
 + `Ai Cancer detection system` __ analysing voxel-based data for CT scanners to determine likelihood and specialist recommendation engine.
 + `Ai system for SLR lenses` __ predictive algorithm to boost the quality of glass lenses to be closer to that of gemstone lenses.
 + `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
