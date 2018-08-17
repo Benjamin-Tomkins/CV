@@ -4,7 +4,7 @@
 <p align="center" ><a name="journey"><img src="./images/makers_journey.svg" width="700"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About) | [Code-bytes](#Projects) | [Past-stuff](#Innovations) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Code-bytes](#Projects)&nbsp;&nbsp;| [Past-stuff](#Innovations) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
