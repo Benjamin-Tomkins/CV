@@ -4,7 +4,7 @@
 <p align="center" ><a name="journey"><img src="./images/makers_journey.svg" width="700"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About) | [Code-bytes](#Projects) | [Past-works](#Synopsis) | [Versed-in](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
+[About](#About) | [Code-bytes](#Projects) | [Past-works](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
@@ -29,7 +29,7 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 + `Representing numbers in cool new ways` __ buy me a drink and I'll draw you a picture.
 + `Cool plant/aeroponics stuff` __ buy me a drink and I'll still not tell you #NDA
 
-#### <a name="Learny-bits"></a>Versed-in :
+#### <a name="Learny-bits"></a>Learny-bits :
 + Recently been learning JS/ES6, Ruby, TDD, Java, Node, React, and SpringBoot for the last 3 months, in Makers *WiP*.
 + Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
 + Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
