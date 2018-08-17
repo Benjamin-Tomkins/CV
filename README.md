@@ -4,13 +4,13 @@
 <p align="center" ><a name="journey"><img src="./images/makers_journey.svg" width="700"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About) | [New-stuff](#Projects) | [Past-stuff](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
+[About](#About) | [Code-bytes](#Projects) | [Past-stuff](#Synopsis) | [Learny-bits](#Learny-bits) | [FAQ](#FAQ) | [Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
 Half-baked full stack designer/developer, and recent Makers Academy graduate — moving into software, from a career in: making, inventing, designing, and prototyping cool stuff you can touch; using tools like <a href="https://uk.mathworks.com/products/matlab.html">`matlab`</a>, <a href="https://uk.mathworks.com/products/simulink.html">`simulink`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`solidworks`</a>. And writing machine learning patents like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a> ( its trendy now 🤷). And sometimes you'll find me up a ladder <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/plastering_1.jpg">`remodelling properties`</a>, and turning things like <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_1.jpg">`this`</a>, into <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_2.jpg">`this`</a>.
 
-#### <a name="Projects"></a>New-stuff :
+#### <a name="Projects"></a>Code-bytes :
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
