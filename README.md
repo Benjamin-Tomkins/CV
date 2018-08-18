@@ -31,7 +31,7 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 
 #### <a name="Learny-bits"></a>Learny-bits :
 + Recently been learning JS/ES6, Ruby, TDD, Java, Node, React, and SpringBoot for the last 3 months, in Makers *WiP*.
-+ Done some Matlab, Python (sooo rusty), Adobe products, Solidworks, MapleSoft (google it), and the usual bits.
++ Done some Matlab, Python (sooo rusty), Adobe products, Visual Paradigm, all things JetBrains, Solidworks, MapleSoft (google it), and the usual bits.
 + Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
 + Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>.
 + Took the Stanford Professional <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/stanford.jpg">High Performance Websites</a> course __ taught by <a href="https://stevesouders.com/about.php">Steve Souders</a>.
