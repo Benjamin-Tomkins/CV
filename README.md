@@ -31,8 +31,8 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 
 #### <a name="Learny-bits"></a>Learny-bits :
 + Various Udemy courses on Docker, DevOps, and ReactJS
-+ ReactJS Academy intensive week bootcamp: ReactJS, TDD, GraphQL, Styled-Components, SSR
-+ Makers Graduate: JS/ES6, Ruby, TDD, Java, Node, ReactJS, and SpringBoot for the last 3 months
++ <a href="https://reactjs.academy/">ReactJS Academy</a> intensive week bootcamp: ReactJS, Redux, TDD, GraphQL, Styled-Components, SSR
++ <a href="https://makers.tech/">Makers Graduate</a>: JS/ES6, Ruby, TDD, Java, Node, ReactJS, and SpringBoot for the last 3 months
 + Done some Matlab, Python (sooo rusty), Adobe products, Visual Paradigm, all things JetBrains, Solidworks, MapleSoft (google it), and the usual bits.
 + Went to school and studied <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/degree.jpg">BSc Design Futures</a> at Westminster University.
 + Am Solidworks <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/solidworks.png">Certified</a>.
