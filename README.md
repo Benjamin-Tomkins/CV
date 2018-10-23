@@ -19,7 +19,7 @@ Half-baked full stack designer/developer, and recent Makers Academy graduate —
 | [Node REST API](https://github.com/Benjamin-Tomkins/express-rest-controller) | WiP : example full CRUD API | Node.js, Express, Joi |
 | [SpringBoot API](https://github.com/Benjamin-Tomkins/springboot_challenge) | WiP : example full CRUD API | Spring Boot, Java, Maven |
 
-#### <a name="Innovations"></a>Past-stuff (product/conceptual prototyping):
+#### <a name="Innovations"></a>Past-stuff ( product design / prototyping ):
 
 + `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
 + `Proof of concept for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
