@@ -4,22 +4,13 @@
 <p align="center" ><a name="journey"><img src="./images/makers_journey.svg" width="700"/></a></p>
 <h4 align="center">" I build cool stuff "<h4>
 
-[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Code-bytes](#Projects)&nbsp;&nbsp;|&nbsp;&nbsp;[Past-stuff](#Innovations)&nbsp;&nbsp;|&nbsp;&nbsp;[Learny-bits](#Learny-bits)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
+[About](#About)&nbsp;&nbsp;|&nbsp;&nbsp;[Work-stuff](#Innovations)&nbsp;&nbsp;|&nbsp;&nbsp;[Learny-bits](#Learny-bits)&nbsp;&nbsp;|&nbsp;&nbsp;[FAQ](#FAQ)&nbsp;&nbsp;|&nbsp;&nbsp;[Random](#Random)
 <br><br>
 #### <a name="About"></a>About :
 
 Half-baked full stack designer/developer, and recent Makers Academy graduate — moving into software, from a career in: making, inventing, designing, and prototyping cool stuff you can touch; using tools like <a href="https://uk.mathworks.com/products/matlab.html">`matlab`</a>, <a href="https://uk.mathworks.com/products/simulink.html">`simulink`</a>, and <a href="https://www.solidworks.com/category/3d-cad">`solidworks`</a>. And writing machine learning patents like <a href="https://patentimages.storage.googleapis.com/5a/83/c8/eb2fdf603fb63d/US20070288410A1.pdf">`this`</a>, and <a href="https://patentimages.storage.googleapis.com/41/67/07/4e40fcfb69e406/US7340060.pdf">`this`</a> ( its trendy now 🤷). And sometimes you'll find me up a ladder <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/plastering_1.jpg">`remodelling properties`</a>, and turning things like <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_1.jpg">`this`</a>, into <a href="https://github.com/Benjamin-Tomkins/CV/blob/master/images/building_2.jpg">`this`</a>.
 
-#### <a name="Projects"></a>Code-bytes :
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Tech Test](https://github.com/Benjamin-Tomkins/Bank-tech-test) | I made a bank tech test | Ruby, RSpec, Trello, Visual Paradigm |
-|[Charity Wishlist](https://github.com/Benjamin-Tomkins/charity-wishlist)| Final group project at Makers. A multi-server Charity wishlist system leveraging the JustGiving API| JS/ES6, AdobeXD, Node.js, React.js, Express, PostgreSQL, Bootstrap, Jest, Enzyme, Mocha |
-| [Node REST API](https://github.com/Benjamin-Tomkins/express-rest-controller) | WiP : example full CRUD API | Node.js, Express, Joi |
-| [SpringBoot API](https://github.com/Benjamin-Tomkins/springboot_challenge) | WiP : example full CRUD API | Spring Boot, Java, Maven |
-
-#### <a name="Innovations"></a>Past-stuff ( product design / prototyping ):
+#### <a name="Innovations"></a>Work-stuff ( product design / prototyping ):
 
 + `Self-aligning wound healing plasters` __ efficiently reducing caesarean section scars without surgery **[in-dev]
 + `Proof of concept for a tiered compiler` __ representing software in matrix form, to be algebraically simplified before optimising with a language compiler.
